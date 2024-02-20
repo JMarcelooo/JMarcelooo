@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JMarcelooo
 - 👀 I’m interested in games and code!
 - 🌱 I’m currently learning Java,  JS, HTML and CSS.
-- 💞️ I’m looking to collaborate on any project.
+- 🤓 I want to be a Full Stack dev.
 - ⚡ Fun fact: My Favorite Game is The Witcher 3: Wild Hunt
 
 <!---
