@@ -2,11 +2,8 @@
 # João Marcelo
 
 Estudante de Ciência da Computação na Universidade do Estado do Rio Grande do Norte  
-3º Período
+5º Período
 
-
-## 🚀 Sobre mim
-Atualmente estou aprofundando meus conhecimentos em programação, ainda não possuo uma área certa, como back ou front end. Então no momento estou estudando um pouco de tudo enquanto me descubro. 
 
 
 ## 🔗 Links
