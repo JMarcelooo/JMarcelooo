@@ -15,4 +15,4 @@ Estudante de Ciência da Computação na Universidade do Estado do Rio Grande do
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMarcelooo&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JMarcelooo)](https://github.com/stats-organization/github-stats-extended)
